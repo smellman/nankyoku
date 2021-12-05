@@ -1,0 +1,12 @@
+id: contour-text
+type: symbol
+source: v
+source-layer: contour
+layout:
+  symbol-placement: line
+  text-field:
+    - get
+    - 標高
+  text-size: 12
+  text-font:
+      - NotoSansCJKjp-Regular
