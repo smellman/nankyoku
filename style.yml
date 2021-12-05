@@ -23,6 +23,7 @@ layers:
   - !!inc/file layers/boundary.yml
   - !!inc/file layers/road.yml
   - !!inc/file layers/pipeline.yml
+  - !!inc/file layers/building-shadow.yml
   - !!inc/file layers/building.yml
   - !!inc/file layers/control.yml
   - !!inc/file layers/symbol.yml

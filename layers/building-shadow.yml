@@ -1,0 +1,15 @@
+id: building-shadow
+type: fill
+source: v
+source-layer: building
+paint:
+  fill-color: 
+    - match
+    - - get
+      - 図式コード
+    - 5111
+    - rgb(70, 82, 140)
+    - rgb(143, 97, 51)
+  fill-translate:
+    - 2
+    - 2
